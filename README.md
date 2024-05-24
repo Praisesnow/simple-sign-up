@@ -1,2 +1,3 @@
-# simple-sign-up
-This is my first project
+# This is a simple sign up
+# My first project
+
